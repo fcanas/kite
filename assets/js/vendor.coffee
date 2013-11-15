@@ -1,0 +1,8 @@
+#= require '../../bower_components/jquery/dist/jquery.js'
+#= require '../../bower_components/underscore/underscore.js'
+#= require '../../bower_components/backbone/backbone.js'
+#= require '../../bower_components/backbone.babysitter/lib/backbone.babysitter.min.js'
+#= require '../../bower_components/backbone.wreqr/lib/backbone.wreqr.min.js'
+#= require '../../bower_components/marionette/lib/backbone.marionette.min.js'
+#= require '../../bower_components/d3/d3.min.js'
+#= require '../../bower_components/topojson/topojson.js'

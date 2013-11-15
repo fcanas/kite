@@ -1,0 +1,24 @@
+{
+  "name": "kite",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fcanas/kite",
+  "authors": [
+    "Fabian Canas <fcanas@gmail.com>"
+  ],
+  "description": "Go fly a kite.",
+  "keywords": [
+    "kite"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}

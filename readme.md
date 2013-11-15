@@ -1,10 +1,6 @@
-Your Project Name
-=================
-A brief summary of your project
+# Kite
 
-### Setup / Installation
-Some instructions on how to set up and/or install this project
+Go fly a kite!
 
-### Staging/Production
-This site is staged at http://example.com [u: admin p: example]    
-This site is live at http://example.com
+## Setup
+You'll probably need bower
